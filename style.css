@@ -1,0 +1,21 @@
+body{
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    background-color:rgb(43, 240, 237);
+    font-family: sans-serif;
+}
+.secici{
+    background-color:rgb(91, 214, 255);
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    height: 400px;
+    width: 900px;
+    border-radius: 15px;
+
+}
+.butonlar{
+    height: 30px;
+    width: 400px;
+}
